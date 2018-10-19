@@ -16,7 +16,7 @@ export default {
             title: 'All Books',
             books: [
                 {title: 'coding for idiots', author: 'An Idio'},
-                {title: 'how not to code', author: 'An Idio'},
+                {title: 'American Gods', author: 'An Idio'},
                 {title: 'whos comment is it anyway?', author: 'weird al'},
             ]
         }
